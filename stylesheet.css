@@ -1,0 +1,97 @@
+h1{
+  font-family:Helvetica,Arial,sans-serif;
+  font-size:2.5em;
+  text-align: left;
+  font-weight:bold;
+  width:80%;
+  margin:.5em auto 0em auto;
+}
+ul{
+  list-style-type:none;
+  font-size:1.2em;
+  text-align:left;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  width:100%;
+  background-color:#333;
+  text-decoration:none;
+}
+li{
+  float:left;
+}
+a#nav{
+  text-decoration:none;
+  display:block;
+  padding:.7em;
+  color:#828282;
+}
+a#nav:hover{
+  color:#333;
+  background-color:#828282;
+}
+.navbar{
+  width:80%;
+  margin:auto;
+}
+h2{
+  font-family:Helvetica,Arial,sans-serif;
+  font-size:1.75em;
+  text-align:left;
+  font-weight:normal;
+}
+h3{
+  font-family:Helvetica,Arial,sans-serif;
+  font-size:1.5em;
+  text-align:left;
+  font-weight:normal;
+  display:inline;
+}
+h4{
+  font-family:Helvetica,Arial,sans-serif;
+  text-align: left;
+  font-weight:normal;
+  font-size:.8em;
+  display:inline;
+  font-style:italic;
+}
+
+p{
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:1em;
+  text-align:left;
+  line-height:1.5;
+}
+body{
+  background-color:#f9f9f9;
+  margin:auto;
+}
+main{
+  width:80%;
+  margin:auto auto 1em auto;
+}
+.blogEntry{
+  border-radius:1em;
+  background-color:antiquewhite;
+  padding: 1em;
+}
+header{
+  background-color:#333;
+  color:#828282;
+  padding:.1em;
+}
+footer{
+  background-color:#333;
+  color:#828282;
+  padding:.1em;
+}
+a#emailLink:hover{
+  color:aliceblue;
+}
+a#emailLink{
+  color:#828282;
+}
+.contactInfo{
+  width:80%;
+  margin:1em auto 1em auto;
+}
